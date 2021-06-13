@@ -24,3 +24,10 @@ let result = {
 // console.log(north);
 let{country:{language:{north}}}=result;
 console.log(north);
+
+let arr = [1,2,3,4,5,6];
+let[f,s,t,...newarray]=arr;
+console.log(newarray);
+newarray[0]=11;
+console.log(newarray);
+console.log(arr);
