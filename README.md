@@ -1,2 +1,2 @@
-# React-Practice
-ES6,react,redux
+# ES6-Practice
+map,filter,reduce,arrow function etc..
